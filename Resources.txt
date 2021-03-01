@@ -1,0 +1,5 @@
+Resources:
+www.stackoverflow.com
+https://pandas.pydata.org/pandas-docs/stable/reference/index.html
+
+general googling
